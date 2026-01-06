@@ -690,7 +690,7 @@ const LandingPage = () => {
                 </div>
                 <div>
                    <div className="flex items-center gap-2 mb-4">
-                      <img src="/favicon.ico" alt="JC Farm Reyes Logo" className="w-6 h-6 rounded" />
+                      <img src="./favicon.ico" alt="JC Farm Reyes Logo" className="w-6 h-6 rounded" />
                       <span className="text-white font-bold">JC Farm Reyes</span>
                    </div>
                    <p className="text-slate-500 text-xs">
