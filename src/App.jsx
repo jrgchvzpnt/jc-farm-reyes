@@ -198,7 +198,7 @@ const LandingPage = () => {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex justify-between h-20 items-center">
             <div className="flex-shrink-0 flex items-center gap-3 cursor-pointer">
-              <img src="/favicon.ico" alt="JC Farm Reyes Logo" className="w-10 h-10 rounded-lg shadow-lg shadow-amber-600/20" />
+              <img src="favicon.ico" alt="JC Farm Reyes Logo" className="w-10 h-10 rounded-lg shadow-lg shadow-amber-600/20" />
               <span className="font-bold text-2xl tracking-tight text-white">JC Farm <span className="text-amber-500">Reyes</span></span>
             </div>
             
@@ -690,7 +690,7 @@ const LandingPage = () => {
                 </div>
                 <div>
                    <div className="flex items-center gap-2 mb-4">
-                      <img src="./favicon.ico" alt="JC Farm Reyes Logo" className="w-6 h-6 rounded" />
+                      <img src="favicon.ico" alt="JC Farm Reyes Logo" className="w-6 h-6 rounded" />
                       <span className="text-white font-bold">JC Farm Reyes</span>
                    </div>
                    <p className="text-slate-500 text-xs">
